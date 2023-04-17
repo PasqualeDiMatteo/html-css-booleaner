@@ -26,7 +26,10 @@ header h1{
 #image{
     margin-top: 20px;
 }
-
+ul{
+    padding: 0;
+    list-style-position: inside;
+}
 /* utilites */
 
 .text-grey{
@@ -39,4 +42,7 @@ header h1{
 
 .text-small{
     font-size: 12px;
+}
+.highlighted-text{
+    background-color:yellow;
 }
