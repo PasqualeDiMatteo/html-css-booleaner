@@ -30,6 +30,28 @@ ul{
     padding: 0;
     list-style-position: inside;
 }
+table{
+    border-collapse: collapse;
+}
+.small-column{
+    width: 15%;
+}
+.big-column{
+    width: 50%;
+}
+th{
+    text-align: left;
+    background-color:skyblue ;
+    color: white;
+}
+td{
+    padding: 20px;
+}
+.blue-table{
+    background-color: hsl(212, 93%, 74%);
+}
+
+
 /* utilites */
 
 .text-grey{
