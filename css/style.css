@@ -34,7 +34,7 @@ table{
     border-collapse: collapse;
 }
 .small-column{
-    width: 15%;
+    width: 25%;
 }
 .big-column{
     width: 50%;
@@ -45,7 +45,7 @@ th{
     color: white;
 }
 td{
-    padding: 20px;
+    padding: 0px;
 }
 .blue-table{
     background-color: hsl(212, 93%, 74%);
