@@ -50,6 +50,25 @@ td{
 .blue-table{
     background-color: hsl(212, 93%, 74%);
 }
+footer figure{
+    height: 200px;
+    width: 300px;
+}
+figure{
+   margin: 0px;
+}
+.photo-text{
+    padding: 10px;
+    color: white;
+
+}
+#monitor{
+    background-image: url(../img/monitor.jpg);
+}
+#graph{
+    background-image: url(../img/graph.jpg);
+}
+
 
 
 /* utilites */
