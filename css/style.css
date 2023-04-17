@@ -23,17 +23,20 @@ body{
 header h1{
     margin-bottom: 0;
 }
+#image{
+    margin-top: 20px;
+}
 
 /* utilites */
 
-.grey-text{
+.text-grey{
     color: grey;
 }
 
-.blue-text{
+.text-blue{
     color: #4ea0ff;
 }
 
-.small-text{
+.text-small{
     font-size: 12px;
 }
